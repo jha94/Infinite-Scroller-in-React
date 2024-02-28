@@ -1,0 +1,8 @@
+{
+  "short_name": "Infinite scroller App",
+  "name": "Infinite scroller in react",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
